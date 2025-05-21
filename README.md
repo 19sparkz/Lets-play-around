@@ -1,2 +1,2 @@
 # Lets-play-around
-stuff learned on everywhere
+Learn with me 
